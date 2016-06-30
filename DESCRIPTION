@@ -1,0 +1,10 @@
+Package: AssetPricingTests
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Andrés Ayala
+Maintainer: Andrés Ayala <aayala15@gsb.columbia.edu>
+Description: More about what it does (maybe more than one line)
+License: GPL-3
+LazyData: TRUE
+RoxygenNote: 5.0.1
